@@ -16,5 +16,3 @@ function countWordOccurrences(sentence: string, word: string): number {
 
   return count;
 }
-
-console.log(countWordOccurrences("I am Sakib", "Sakib"));
