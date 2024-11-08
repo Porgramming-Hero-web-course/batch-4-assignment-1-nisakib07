@@ -25,7 +25,7 @@ In the example above, the greet function accepts both a string and a number type
 
 ## Intersection Types (`&`)
 
-An **intersection** type combines multiple types into one. This allows a variable to have the properties of all the types combined.
+An **intersection type** combines multiple types into one. This allows a variable to have the properties of all the types combined.
 
 ### Example:
 
