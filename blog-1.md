@@ -17,7 +17,7 @@ function greet(person: string | number) {
   }
 }
 
-greet("Alice"); // Output: Hello, Alice!
+greet("Sakib"); // Output: Hello, Sakib!
 greet(25); // Output: Hello, person number 25!
 ```
 
@@ -43,10 +43,10 @@ interface Address {
 type PersonWithAddress = Person & Address;
 
 const personWithAddress: PersonWithAddress = {
-  name: "Alice",
-  age: 30,
-  city: "New York",
-  country: "USA",
+  name: "Sakib",
+  age: 24,
+  city: "Dhaka",
+  country: "Bangladesh",
 };
 ```
 
